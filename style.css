@@ -1165,3 +1165,156 @@ vui-icon {
     display: inline-flex;
     justify-content: center
 }
+
+.container[_ngcontent-fqt-c90] {
+        background-image: url(https://binomo-web.com/assets/binomo/images/home/wtc-mobile.webp);
+        width: 100%;
+        height: 579px;
+        padding: var(--offset-md-m) var(--offset-sm-xl) var(--offset-sm-xl);
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        background-position: 50%;
+        background-size: cover
+      }
+
+      @media (min-width:568px) {
+        .container[_ngcontent-fqt-c90] {
+          background-image: url(https://binomo-web.com/assets/binomo/images/home/wtc.webp);
+          height: 506px;
+          padding: var(--offset-lg-l) 0 20px
+        }
+      }
+
+      @media (min-width:1280px) {
+        .container[_ngcontent-fqt-c90] {
+          background-image: url(https://binomo-web.com/assets/binomo/images/home/wtc.webp);
+          height: 765px;
+          padding: 124px 0 var(--offset-lg-l)
+        }
+      }
+
+      .text[_ngcontent-fqt-c90],
+      .wrap[_ngcontent-fqt-c90] {
+        margin: 0 auto;
+        color: var(--color-text-primary);
+        text-align: center
+      }
+      }
+
+      @media (min-width:568px) {
+
+        .text[_ngcontent-fqt-c90],
+        .wrap[_ngcontent-fqt-c90] {
+          width: 500px;
+          text-align: left
+        }
+      }
+
+      @media (min-width:768px) {
+
+        .text[_ngcontent-fqt-c90],
+        .wrap[_ngcontent-fqt-c90] {
+          width: 608px
+        }
+      }
+
+      @media (min-width:960px) {
+
+        .text[_ngcontent-fqt-c90],
+        .wrap[_ngcontent-fqt-c90] {
+          width: 688px
+        }
+      }
+
+      @media (min-width:1280px) {
+
+        .text[_ngcontent-fqt-c90],
+        .wrap[_ngcontent-fqt-c90] {
+          width: 1108px
+        }
+      }
+
+      @media (min-width:568px) {
+        .content[_ngcontent-fqt-c90] {
+          max-width: 380px;
+          text-align: left;
+        }
+      }
+
+      @media (min-width:1280px) {
+        .content[_ngcontent-fqt-c90] {
+          max-width: 600px;
+          text-align: left;
+        }
+      }
+
+      .date[_ngcontent-fqt-c90] {
+        margin-bottom: var(--offset-sm-xl);
+        font: var(--text-body)
+      }
+
+      @media (min-width:568px) {
+        .date[_ngcontent-fqt-c90] {
+          margin-bottom: var(--offset-md-m)
+        }
+      }
+
+      @media (min-width:1280px) {
+        .date[_ngcontent-fqt-c90] {
+          margin-bottom: var(--offset-md-xs);
+          font: var(--text-h6)
+        }
+      }
+
+      .title[_ngcontent-fqt-c90] {
+        margin-bottom: var(--offset-sm-xl);
+        font: var(--text-h3)
+      }
+
+      @media (min-width:568px) {
+        .title[_ngcontent-fqt-c90] {
+          margin-bottom: var(--offset-md-xs);
+          font: var(--text-h2)
+        }
+      }
+
+      @media (min-width:1280px) {
+        .title[_ngcontent-fqt-c90] {
+          margin-bottom: var(--offset-md-l);
+          font: var(--text-h1)
+        }
+      }
+
+      .subtitle[_ngcontent-fqt-c90] {
+        margin-bottom: var(--offset-md-xs);
+        font: var(--text-body)
+      }
+
+      @media (min-width:1280px) {
+        .subtitle[_ngcontent-fqt-c90] {
+          max-width: 407px;
+          margin-bottom: var(--offset-md-l);
+          font: var(--text-h6)
+        }
+      }
+
+      .text[_ngcontent-fqt-c90] {
+        text-align: left;
+        font: var(--text-small);
+        color: var(--color-text-secondary)
+      }
+
+      @media (min-width:568px) {
+        .text[_ngcontent-fqt-c90] {
+          text-align: left;
+          font: var(--text-caption)
+        }
+      }
+
+      @media (min-width:1280px) {
+        .text[_ngcontent-fqt-c90] {
+          text-align: left;
+          font: var(--text-body)
+        }
+      }
